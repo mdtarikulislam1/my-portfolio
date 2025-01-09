@@ -9,7 +9,7 @@ body{
 }
 /* header */
 .header-nav{
-    background-image: url(new-year-offer-resources/images/Banner\ Image.png);
+    background-image: url(images/Banner\ Image.png);
     width: 1320px;
     height: 600px;
     margin: 20px auto;
@@ -62,7 +62,7 @@ text-align: center;
 
 /* main */
 main{
-    background-image: url(new-year-offer-resources/images/Vectorrr.png);
+    background-image: url(images/Vectorrr.png);
     width: 1320px;
     height: 600px;
     margin: 100px auto;
