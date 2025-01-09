@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+/* body */
+body{
+    font-family: "Merriweather", serif;
+}
+/* header */
+.header-nav{
+    background-image: url(new-year-offer-resources/images/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    margin: 20px auto;
+}
+.header-nav-h4{
+font-weight: 400;
+font-size: 32px;
+color: #FFFFFF;
+text-align: center;
+}
+.header-nav-h2{
+    color: #FFFFFF;
+    font-weight: bolder;
+    font-size: 72px; 
+    text-align: center;  
+}
+
+.header-nav-div{
+    width: 632px;
+    height: 246px;
+    padding: 177px 334px;
+    justify-content: center;
+}
+/* header 2 */
+.h2-one{
+    font-weight: bolder;
+    font-size: 88px;
+    color: #FF0000;
+}
+.p-one{
+    font-weight: 300;
+    font-size: 24px;
+    color: #FF0000;
+}
+.p-two{
+    font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+}
+.div-two{
+   text-align: center;
+}
+.div-one{
+    width: 802.9px;
+    height: 806px;
+    margin: 100px auto;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+/* main */
+main{
+    background-image: url(new-year-offer-resources/images/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    margin: 100px auto;
+}
+.main-div-three{
+    display: flex;
+}
+.main-h2-one{
+    color: white;
+    font-weight: bolder;
+    font-size: 64px;
+}
+.main-p-one{
+    color: white;
+    font-weight: 300;
+    font-size: 18px;
+    padding-top: 20px;
+}
+.main-p-two{
+    color: white;
+    font-weight: bold;
+   font-size: 20px;
+   padding-top: 90px;
+}
+.main-div-two{
+    width: 540px;
+    gap: 15px;
+   padding: 126px 322px 126px 126px;
+
+}
+.img-one{
+   width: 319.83px; 
+   height: 464.66px;
+   margin: 50px 100px 10px 0px;
+}
